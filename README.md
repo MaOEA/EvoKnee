@@ -1,7 +1,7 @@
 # EvoKnee
 The EvoKnee program is a GUI implementation for the Evolutionary Algorithm for Knee Based Multiple Criteria Decision Making. The program integrates several well-known multiple knee benchmark functions (DO2DK, DEB2DK, and DEB2DK2 ), which can be run on any Microsoft Windows platform. Interested researchers can download and validate the performance on his/her own.
 
-![Alt text](https://github.com/MaOEA/EvoKnee/blob/master/Images/GUI.jpg)
+![Alt text](https://github.com/MaOEA/EvoKnee/blob/master/Images/GUINew.jpg)
 
 During the search, the Evoknee only maintains a knee solution and a few boundary individuals within the search subspace to constrain the search effort and focus solely on convergence toward the global knee solution quickly.
 
