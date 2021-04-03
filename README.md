@@ -9,6 +9,6 @@ During the search, the Evoknee only maintains a knee solution and a few boundary
 
 Copyright (c) 2018-2020 EvoKnee Group. You are free to use the Programe for research purposes.
 
-All publications which use this Programe or any code in the Programe should acknowledge the use of "EvoKnee" and reference "Kai Zhang, Gary G. Yen and Zhenan He, Evolutionary Algorithm for Knee-Based Multiple Criteria Decision Making, IEEE Transactions on Cybernetics, 2019, DOI: 10.1109/TCYB.2019.2955573".
+All publications which use this Programe or any code in the Programe should acknowledge the use of "EvoKnee" and reference "Kai Zhang, Gary G. Yen and Zhenan He, Evolutionary Algorithm for Knee-Based Multiple Criteria Decision Making, IEEE Transactions on Cybernetics, vol.51, no.2, pp.722-735, 2021".
 
 https://ieeexplore.ieee.org/document/8933061
